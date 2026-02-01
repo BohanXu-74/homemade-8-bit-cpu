@@ -1,7 +1,7 @@
 
 # Homemade 8-bit CPU
 
-[![8-bit CPU Demo](images/cpu8.png)](https://www.youtube.com/watch?v=CR7b72kyQng)
+[![8-bit CPU Demo](images/thumbnail.jpg)](https://www.youtube.com/watch?v=CR7b72kyQng)
 
 Watch Demo Video above!!
 
@@ -47,5 +47,5 @@ See [`docs/instr.txt`](docs/instr.txt)
 ## Acknowledgements
 
 BIG thanks to Hneemann for designing the software logic simulator Digital to make all this possible
-- [Digital](https://github.com/hneeman/Digital) by Hneemann
+- [Digital](https://github.com/hneemann/Digital) by Hneemann
 
