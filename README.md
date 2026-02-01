@@ -13,6 +13,7 @@ A homebrew 8-bit CPU designed from scratch that was inspired by classic CPUs lik
 - Choose a part or module of my CPU
 - there will be a png containing the schematic
 - there will also be a decription file with a description and a youtube link
+- By the way .dig files are Digital files that I used to design my CPU link is down at the end of this file
 
 ## Why I Built This
 
