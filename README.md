@@ -1,5 +1,7 @@
 
-# homemade-8-bit-cpu
+# Homemade 8-bit CPU
+
+[![8-bit CPU Demo](images/cpu8.png)](https://www.youtube.com/watch?v=CR7b72kyQng)
 
 Watch Demo Video above!!
 
@@ -9,7 +11,7 @@ A homebrew 8-bit CPU designed from scratch that was inspired by classic CPUs lik
 
 - Go in src folder
 - Choose a part or module of my CPU
-- there will
+- there will be a dig file that uses Digital and a png containing the schematic.
 
 ## Why I Built This
 
