@@ -5,6 +5,12 @@ Watch Demo Video above!!
 
 A homebrew 8-bit CPU designed from scratch that was inspired by classic CPUs like the 6502 and Z80.
 
+## How I store stuff
+
+- Go in src folder
+- Choose a part or module of my CPU
+- there will
+
 ## Why I Built This
 
 I’m an 8th-grade student interested in CPU design, computer architecture, and how modern processors work internally.
@@ -35,3 +41,9 @@ The instruction set is still not fully complete because 256 instructions is a lo
 I will probably update a this repo a few times.
 
 See [`docs/instr.txt`](docs/instr.txt)
+
+## Acknowledgements
+
+BIG thanks to Hneemann for designing the software logic simulator Digital to make all this possible
+- [Digital](https://github.com/hneeman/Digital) by Hneemann
+
