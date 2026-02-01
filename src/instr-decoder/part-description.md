@@ -13,3 +13,5 @@ Im using a ROM as the deocder and I'm also using microcode.
 Here's the microcode and instruction set:
 
 [See the instruction set](../../docs/instr.txt)
+
+Theres also a file to the actual data in the ROM if you know how to use Digital you can probably read it, otherwise ask chatgpt or somthin.
