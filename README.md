@@ -1,7 +1,7 @@
 
 # Homemade 8-bit CPU
 
-[![8-bit CPU Demo](images/thumbnail.jpg)](https://www.youtube.com/watch?v=CR7b72kyQng)
+[![8-bit CPU Demo](images/thunbnail.jpg)](https://www.youtube.com/watch?v=CR7b72kyQng)
 
 Watch Demo Video above!!
 
