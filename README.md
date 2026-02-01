@@ -11,7 +11,7 @@ A homebrew 8-bit CPU designed from scratch that was inspired by classic CPUs lik
 
 - Go in src folder
 - Choose a part or module of my CPU
-- there will be a dig file that uses Digital and a png containing the schematic.
+- there will be a dig file that uses Digital, a png containing the schematic, and a youtube video I made about it
 
 ## Why I Built This
 
