@@ -1,6 +1,6 @@
 ## Registers
 
-[![8-bit CPU Demo](images/reg.png)](https://www.youtube.com/watch?v=iEZ8KgztKnE)
+[![8-bit CPU Demo](../../images/reg.png)](https://www.youtube.com/watch?v=iEZ8KgztKnE)
 
 Demo Video above!
 
