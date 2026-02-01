@@ -1,4 +1,4 @@
-## ALU
+## PC
 
 [![4-bit CPU Demo](../../images/pc2.png)](https://www.youtube.com/watch?v=J0SWi6-3sAg)
 
