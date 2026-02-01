@@ -7,6 +7,8 @@ Watch Demo Video above!!
 
 A homebrew 8-bit CPU designed from scratch that was inspired by classic CPUs like the 6502 and Z80.
 
+BTW this repo is being updated so it might change the next time you see this.
+
 ## How I store stuff
 
 - Go in src folder
