@@ -1,5 +1,9 @@
 ## ALU
 
+i dont have one yet im working on it! thanks:)
+
+Demo Video above!
+
 This part of the CPU handles all logic and math operations.
 
 ## I/O
