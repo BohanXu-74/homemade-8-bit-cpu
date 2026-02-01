@@ -1,6 +1,6 @@
 ## ALU
 
-[![4-bit CPU Demo](images/pc.png)](https://www.youtube.com/watch?v=J0SWi6-3sAg)
+[![4-bit CPU Demo](../../images/pc2.png)](https://www.youtube.com/watch?v=J0SWi6-3sAg)
 
 Demo Video above!
 
