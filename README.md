@@ -30,4 +30,8 @@ Main components:
 - RAM / ROM
 
 ## Instruction Set
+
+The instruction set is still not fully complete because 256 instructions is a lot!
+I will probably update a this repo a few times.
+
 See [`docs/instr.txt`](docs/instr.txt)
